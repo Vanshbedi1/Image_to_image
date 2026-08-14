@@ -1,9 +1,2 @@
-cat > requirements.txt <<'EOF'
-streamlit==1.48.0
-torch==2.6.0
-diffusers==0.32.2
-transformers==4.46.3
-accelerate==1.2.1
-safetensors==0.5.3
-Pillow==11.1.0
-EOF
+streamlit
+Pillow
