@@ -1,0 +1,12 @@
+# requirements.txt
+
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+safetensors
+Pillow
+EOF
+streamlit
